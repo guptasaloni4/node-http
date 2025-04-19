@@ -1,0 +1,20 @@
+{
+  "name": "node-http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guptasaloni4/node-http.git"
+  },
+  "author": "Saloni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guptasaloni4/node-http/issues"
+  },
+  "homepage": "https://github.com/guptasaloni4/node-http#readme"
+}
